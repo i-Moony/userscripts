@@ -9,7 +9,7 @@
 // @grant        none
 // @run-at       document-end
 // @license      MIT
-// @supportURL  https://github.com/i-Moony/userscripts/issues
+// @supportURL   https://github.com/i-Moony/userscripts/issues
 // ==/UserScript==
 
 // Features:
